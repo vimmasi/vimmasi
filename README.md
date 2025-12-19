@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🛠️ Strong experience with **Web Hosting, WordPress, cPanel, CRM, Docker**  
+- 🛠️ Strong experience with **Web Hosting, WordPress, cPanel, CRM**  
 - 👨‍💻 Full-stack background with **Python (Flask/Django)**, **Vue.js**, **Tailwind**,  
   plus solid frontend foundations  
 - 🌎 English **C1 Advanced** & Portuguese Native  
