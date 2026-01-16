@@ -4,37 +4,37 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🛠️ Strong experience with **Web Hosting, WordPress, cPanel, CRM**  
-- 👨‍💻 Full-stack background with **Python (Flask/Django)**, **Vue.js**, **Tailwind**,  
+- Experience with **Web Hosting, WordPress, cPanel, CRM**  
+- Full-stack student of **Python (Flask/Django)**, **Vue.js**, **Node.js**, **Tailwind**,  
   plus solid frontend foundations  
-- 🌎 English **C1 Advanced** & Portuguese Native  
-- 🔍 Passionate about scalable systems, automation, and elegant code
+- English **C1 Advanced** & Portuguese Native  
+- I love modular systems, automations, and dashboards
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages:**  
 `Python` · `JavaScript` · `HTML` · `CSS`
 
 **Frameworks & Tools:**  
-`Flask` · `Django` · `Vue.js` · `Tailwind` · `Bootstrap` · `Git` · `Docker`
+`Flask` · `Django` · `Node.js` · `Vue.js` · `Tailwind` · `Bootstrap` · `Git` · `Docker`
 
 **Platforms & Support:**  
 `WordPress` · `cPanel` · `JIRA` · `Intercom` · `Web Hosting`
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
-- ⭐ Elected **Culture Peak** twice at Hostinger  
+- ⭐ Elected **Culture Peak** as a Customer Success Specialist  
 - 💬 Trusted for resolving **advanced WordPress & hosting issues**
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
 ### 🔗 **Buscoescala — Military schedule management MVP**  
 A structured CRUD application built with:  
@@ -44,7 +44,7 @@ A structured CRUD application built with:
 
 ---
 
-## 📫 Contact
+## Contact
 
 🔗 [LinkedIn](https://linkedin.com/in/vimmasi)
 
