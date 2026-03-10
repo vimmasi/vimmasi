@@ -23,7 +23,7 @@ Recently, I've been focusing heavily on **Backend Architecture** and **DevOps ba
 `Node.js` · `Express.js` · `Python (Flask/Django)` · `MongoDB` · `SQLAlchemy`
 
 **Frontend**
-`Vue.js` · `Tailwind CSS` · `Bootstrap` · `HTML5` · `JavaScript (ES6+)`
+`React` · `Vue` · `Tailwind CSS` · `Bootstrap` · `HTML5` · `JavaScript (ES6+)`
 
 **DevOps & Tools**
 `Docker` · `Linux (Ubuntu/VPS)` · `PM2` · `Git` · `Postman` · `cPanel`
